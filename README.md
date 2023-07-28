@@ -1,22 +1,30 @@
-### Hi there 👋, my name is sahil nayak
-#### Energetic coder fluent in C/C++, Java, Python, HTML, CSS. Skilled in deploying websites and managing databases. Continuously growing and evolving.
-![Energetic coder fluent in C/C++, Java, Python, HTML, CSS. Skilled in deploying websites and managing databases. Continuously growing and evolving.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<h1 align="center">Hi 👋, I'm Sahil Nayak</h1>
+<h3 align="center">A passionate programmer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ogsahil&label=Profile%20views&color=0e75b6&style=flat" alt="ogsahil" /> </p>
 
-- 🔭 I’m currently working on java 
-- 🌱 I’m currently learning alot of things 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ogsahil" alt="ogsahil" /></a> </p>
 
+- 🔭 I’m currently working on **alot of things (soon i will drop the links)**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ogsahil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ogsahilnayak/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ogsahilnayak)  
+- 🌱 I’m currently learning **alot of things**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogsahil)](https://github.com/anuraghazra/github-readme-stats)
+- 👯 I’m looking to collaborate on **fintech-projects and api's building**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ogsahil&show_icons=true&count_private=true)  
+- 📝 I regularly write articles on [here is the link](here is the link)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ogsahil)  
+- 📫 How to reach me **contactsahilpnayak@gmail.com**
 
-![GitHub metrics](https://metrics.lecoq.io/ogsahil)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ogsahilnayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ogsahilnayak" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sahil nayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil nayak" height="30" width="40" /></a>
+<a href="https://instagram.com/ogsahilnayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ogsahilnayak" height="30" width="40" /></a>
+</p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ogsahil)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-![Profile views](https://gpvc.arturio.dev/ogsahil)  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ogsahil&show_icons=true&locale=en&layout=compact" alt="ogsahil" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ogsahil&" alt="ogsahil" /></p>
