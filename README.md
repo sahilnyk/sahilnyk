@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Nayak</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ogsahil&label=Profile%20views&color=0e75b6&style=flat" alt="ogsahil" /> </p>
+[![](https://visitcount.itsvg.in/api?id=ogsahil&label=Profile%20visits&color=4&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 
 
