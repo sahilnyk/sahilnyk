@@ -1,22 +1,24 @@
-<h1 align="center">Hi 👋, I'm Sahil Nayak</h1>
-<h3 align="center">A passionate programmer from India</h3>
+<br clear="both">
 
+<div align="center">
+  <img height="500" src="https://images5.alphacoders.com/132/1328865.png"  />
+</div>
 
+###
 
+<br clear="both">
 
+<h3 align="center">A boy who likes tech and hardwares from 🇮🇳</h3>
 
-- 🔭 I’m currently working on **alot of things (soon i will drop the links)**
+###
 
-- 🌱 I’m currently learning **alot of things**
+<h5 align="left">- 🔭 I’m currently working on alot of things (soon i will drop the links)<br><br>- 🌱 I’m currently learning alot of things<br><br>- 👯 I’m looking to collaborate on Fintech projects<br><br>- 📫 How to reach me? sahilnayak2056@gmail.com</h5>
 
-- 👯 I’m looking to collaborate on **API building projects**
+###
 
-- 📫 How to reach me **contactsahilpnayak@gmail.com**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ogsahil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ogsahil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ogsahil&show_icons=true&locale=en&layout=compact" alt="ogsahil" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ogsahil&" alt="ogsahil" /></p>
+###
