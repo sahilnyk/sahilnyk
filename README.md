@@ -1,8 +1,6 @@
 <br clear="both">
 
-<div align="center">
-  <img height="500" src="https://wallpapercave.com/w/wp4697674"  />
-</div>
+
 
 ###
 
