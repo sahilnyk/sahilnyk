@@ -2,5 +2,5 @@
 
 ![My Banner](https://github.com/ogsahil/ogsahil/blob/main/countryside.jpg)
 
-![avg-life](https://media.tenor.com/view/wojak-skye-productions-dustin-odaffer-prince-of-zimbabwe-millenia-thinker-gif-24269358.gif)
+![avg-life](https://tenor.com/view/wojak-skye-productions-dustin-odaffer-prince-of-zimbabwe-millenia-thinker-gif-24269358)
 
