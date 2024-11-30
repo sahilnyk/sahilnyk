@@ -1,18 +1,17 @@
-<br clear="both">
+# Hi there! 👋
+**"I'm Sahil Nayak, a passionate developer exploring Django, Spring Boot, and Machine Learning. Let's create something innovative!"**
 
-<br clear="both">
+![My Banner](https://path-to-your-image.com/banner.jpg)
 
-<h3 align="center">A boy who likes tech and hardwares from 🇮🇳</h3>
+## My Latest Updates  
+### 🚀 Projects  
+- [Dynamic GitHub Profile](https://github.com/sahilnyk/dynamic-profile)  
+- [Sentiment Analysis](https://github.com/sahilnyk/sentiment-analysis)  
 
-###
+### 📝 Blog Posts  
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<h5 align="left">- 🔭 I’m currently working on alot of things (soon i will drop the links)<br><br>- 🌱 I’m currently learning alot of things<br><br>- 👯 I’m looking to collaborate on Fintech projects<br><br>- 📫 How to reach me? sahilnayak2056@gmail.com</h5>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ogsahil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ogsahil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+### 🔄 Recent Changes  
+<!-- RECENT-CHANGES-LIST:START -->
+<!-- RECENT-CHANGES-LIST:END -->
