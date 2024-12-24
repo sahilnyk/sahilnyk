@@ -2,5 +2,5 @@
 
 ![My Banner](https://github.com/ogsahil/ogsahil/blob/main/countryside.jpg)
 
-![avg life](https://media1.tenor.com/m/xclEm0qHNK8AAAAd/wojak-skye-productions.gif)
+![avg life](https://media1.tenor.com/m/JwRNTvlcBF4AAAAC/mario-super-mario.gif)
 
