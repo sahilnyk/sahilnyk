@@ -3,7 +3,7 @@ im just an ordinary dev who uses AI agents to build small things and save huge c
 
 ## Contact
 
-<a href="mailto:sahilnayak2056@gmail.com">sahilnayak2056@gmail.com</a> &nbsp; • &nbsp; <a href="https://www.linkedin.com/in/sahil-nayak-464548277/">linkedin</a>
+[![Email](https://img.shields.io/badge/Email-sahilnayak2056%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:sahilnayak2056@gmail.com) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-nayak-464548277/)
 
 ## Moments
 
