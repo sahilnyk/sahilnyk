@@ -1,5 +1,6 @@
 
-im just an ordinary dev who uses AI agents to build small things and save huge cash buring :> i enjoy travelling. thats it. tech: claude code, copilot (jk), django, nodejs, jwt, react, shadcn, docker, postgres, aws, terraform, and whatever else makes sense.
+im just an ordinary dev who uses AI agents to build small things and save huge cash buring :> i enjoy travelling. thats it. 
+tech: claude code, copilot (jk), django, nodejs, jwt, react, shadcn, docker, postgres, aws, terraform, and whatever else makes sense.
 
 ## Contact
 
