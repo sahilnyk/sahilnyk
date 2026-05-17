@@ -1,17 +1,9 @@
 
-# sahilnyk
-
-im just an ordinary dev who uses AI agents to build small things and save huge cash buring :>
-
-i enjoy travelling. thats it.
-
-## Tech Stack
-
-claude code, copilot (jk), django, nodejs, jwt, react, shadcn, docker, postgres, aws, terraform, and whatever else makes sense.
+im just an ordinary dev who uses AI agents to build small things and save huge cash buring :> i enjoy travelling. thats it. tech: claude code, copilot (jk), django, nodejs, jwt, react, shadcn, docker, postgres, aws, terraform, and whatever else makes sense.
 
 ## Contact
 
-<a href="mailto:sahilnayak2056@gmail.com">sahilnayak2056@gmail.com</a>
+<a href="mailto:sahilnayak2056@gmail.com">sahilnayak2056@gmail.com</a> &nbsp; • &nbsp; <a href="https://www.linkedin.com/in/sahil-nayak-464548277/">linkedin</a>
 
 ## Moments
 
