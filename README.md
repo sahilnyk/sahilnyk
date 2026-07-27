@@ -1,5 +1,4 @@
-im just an ordinary dev who uses AI agents to build small things and save huge cash buring :> i enjoy travelling. thats it. <br>
-tech: claude code, copilot (jk), django, nodejs, jwt, react, shadcn, docker, postgres, aws, terraform, and whatever else makes sense.
+Software Engineer working across backend logic and frontend development APIs, business logic, and UIs alike. Comfortable with DevOps: CI/CD, Docker, and Terraform for Infrastructure as Code. Claude Code and GitHub Copilot are part of my daily workflow. Active open-source contributor.
 
 
 ## Reach Out
