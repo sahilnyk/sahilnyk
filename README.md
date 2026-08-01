@@ -1,4 +1,4 @@
-Software Engineer working across backend logic and frontend development APIs, business logic, and UIs alike. Comfortable with DevOps: CI/CD, Docker, and Terraform for Infrastructure as Code. Claude Code and GitHub Copilot are part of my daily workflow. Active open-source contributor.
+Software Engineer working across backend logic and frontend development APIs, business logic, and UIs alike. Comfortable with DevOps: CI/CD, Docker, and Terraform for Infrastructure as Code. Active open-source contributor.
 
 
 ## Reach Out
